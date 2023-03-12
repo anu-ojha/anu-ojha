@@ -1,7 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Anurag Ojha</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-
 
 
 <p align="left">
@@ -13,7 +11,8 @@
 
 - 👨‍💻 All of my projects are available at
 [https://anu-ojha.github.io/My-Portfolio/](https://anu-ojha.github.io/My-Portfolio/)
-- 📫 How to reach me **ojhaanu2002@gmail.com** - 📄 Know about my experiences
+- 📫 How to reach me **ojhaanu2002@gmail.com** <br>
+- 📄 Know about my experiences
 [https://anu-ojha.github.io/My-Portfolio/](https://anu-ojha.github.io/My-Portfolio/)
 - ⚡ Fun fact **I'm Funny**
 
